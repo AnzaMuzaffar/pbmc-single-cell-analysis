@@ -93,7 +93,7 @@ See requirements.txt for exact package dependencies. Install with the command: p
 
 ## Tools & Libraries
 
-- Python 3
+- Python 
 - scanpy — single-cell analysis toolkit
 - anndata — underlying data structure for single-cell data
 - pandas, numpy — data handling
