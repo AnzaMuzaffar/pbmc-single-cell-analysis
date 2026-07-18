@@ -1,0 +1,6 @@
+scanpy
+pandas
+numpy
+matplotlib
+leidenalg
+igraph
